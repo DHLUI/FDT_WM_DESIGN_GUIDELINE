@@ -15,7 +15,7 @@ you can check this doc through this way:
 
 
 ```
-https://github.com/DHLUI/FDT_WM_DESIGN_GUIDELINE.git
+git clone  https://github.com/DHLUI/FDT_WM_DESIGN_GUIDELINE.git
 ```
 
 
