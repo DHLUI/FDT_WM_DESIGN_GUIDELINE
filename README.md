@@ -1,10 +1,10 @@
 # FDT_WM_DESIGN_GUIDELINE
 
-![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/01.png)
-![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/02.png)
-![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/03.png)
-![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/04.png)
-![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/05.png)
+![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/06.png)
+![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/07.png)
+![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/08.png)
+![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/09.png)
+![pic](https://raw.githubusercontent.com/DHLUI/FDT_WM_DESIGN_GUIDELINE/master/10.png)
 
 A design guideline of APP named wealth management.
 
