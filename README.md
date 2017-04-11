@@ -8,7 +8,7 @@
 
 A design guideline of APP named wealth management.
 
-you can check this doc through this way:
+you can check this doc via this way:
 
 
 
