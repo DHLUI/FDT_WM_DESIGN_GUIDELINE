@@ -11,7 +11,7 @@ you can check this doc through this way:
 
 
 ```
-git clone https://github.com/DHLUI/Web-Demo-Concept-Car.git
+https://github.com/DHLUI/FDT_WM_DESIGN_GUIDELINE.git
 ```
 
 
